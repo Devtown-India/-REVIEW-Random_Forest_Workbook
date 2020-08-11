@@ -14,4 +14,4 @@ Understood what Bootstrap Aggregation (Bagging) is and how that along with featu
 Article link: https://machinelearningmastery.com/bagging-and-random-forest-ensemble-algorithms-for-machine-learning/
 
 ## Aug 11
-Added DecisionTreeClassifier.py.
+Added DecisionTree.py.
